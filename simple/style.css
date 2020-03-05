@@ -1,0 +1,35 @@
+body {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+h1 {
+    background-color: #A52A2A;
+    text-align: center;
+    color: white;
+}
+
+.top-img {
+    text-align: center;
+    margin: auto;
+}
+
+a {
+    text-decoration: none;
+}
+
+.bottom-img {
+    text-align: center;
+    margin: auto;
+}
+
+.bottom-img > img {
+    border: 3px dashed black;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+}
